@@ -63,7 +63,7 @@ $ cd database-relations
 $ yarn 
 
 # Execute o projeto:
-$ yarn start
+$ yarn dev:server
 
 ```
 
