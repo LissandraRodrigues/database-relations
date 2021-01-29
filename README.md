@@ -9,7 +9,7 @@
   <h1 align="center"> Database Relations </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-10%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/database-relations" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/database-relations" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/database-relations" />
