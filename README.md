@@ -36,7 +36,7 @@
 
 <br>
 
-Este projeto é resultado do meu oitavo desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre sobre Node.js com TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany.
+Este projeto é resultado do meu oitavo desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre Node.js com TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany.
 
 ## :rocket: Tecnologias ##
 
